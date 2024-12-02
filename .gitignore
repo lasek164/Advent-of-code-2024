@@ -1,0 +1,11 @@
+.DS_Store
+.DS_Store
+venv/
+*.dcm
+*.obj
+*.swp
+.ipynb_checkpoints
+__pycache__/
+evaluation_results/
+results/
+retina*.trch
